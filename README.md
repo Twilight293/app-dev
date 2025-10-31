@@ -3,10 +3,11 @@ My first repository
 
 # My Favorite Series: Jujutsu Kaisen
 
-**Jujutsu Kaisen** is an action-packed anime that blends supernatural battles with deep emotional storytelling.  
+**Jujutsu Kaisen** is a anime known for its epic battles and striking visuals, created by Gege Akutami. My favorite character is *Satoru Gojo*, the strongest jujutsu sorcerer.
+
 Gojo the strongest
 The Honored one
-Hollow Technique
+Hollow Technique Purple
 
 ## Why I Love It
 - Gojo
