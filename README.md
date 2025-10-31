@@ -5,6 +5,7 @@ My first repository
 
 **Jujutsu Kaisen** is an action-packed anime that blends supernatural battles with deep emotional storytelling.  
 Gojo the strongest
+The Honored one
 
 ## Why I Love It
 - Gojo
