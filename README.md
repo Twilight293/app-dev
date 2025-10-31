@@ -6,6 +6,7 @@ My first repository
 **Jujutsu Kaisen** is an action-packed anime that blends supernatural battles with deep emotional storytelling.  
 Gojo the strongest
 The Honored one
+Hollow Technique
 
 ## Why I Love It
 - Gojo
@@ -19,3 +20,4 @@ The Honored one
 2. Todo  
 3. Sukuna 
 4. Yuji
+5. Yuta
